@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Research
-permalink: /research/
-slug: research
+permalink: /Research/
+slug: Research
 ---
 
 # This page is still under development.
