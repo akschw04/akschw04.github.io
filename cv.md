@@ -4,4 +4,4 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-<object data="{{ /CV/Adria Schwarber - CV.pdf }}" width="1000" height="1000" type='application/pdf'/>
+<iframe src="https://drive.google.com/file/d/1qViflsd6NkWVyghyO023tOUj8NPl7-tf/preview" width="640" height="480"></iframe>
