@@ -4,4 +4,4 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-<embed src="Adria Schwarber - CV.pdf#page=2" type="application/pdf" width="100%" height="100%">
+<iframe src="http://docs.google.com/gview?url=file:///C:/Users/Adria/Documents/GitHub/akschw04.github.io/Adria%20Schwarber%20-%20CV.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
