@@ -4,4 +4,4 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-knitr::include_graphics("/CV/Adria Schwarber - CV.pdf")
+<object data="{{ /CV/Adria Schwarber - CV.pdf }}" width="1000" height="1000" type='application/pdf'/>
