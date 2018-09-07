@@ -4,4 +4,4 @@ title: Curriculum Vitae
 permalink: /CV/
 ---
 
-\includepdf[pages=-,pagecommand={},width=\textwidth, height=\textheight]{CV/Adria Schwarber - CV.pdf}
+knitr::include_graphics("/CV/Adria Schwarber - CV.pdf")
