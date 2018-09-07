@@ -1,1 +1,7 @@
-_site/
+_site
+.sass-cache
+Gemfile.lock
+images/*.big.jpg
+images/*-bak.jpg
+.bundle
+vendor
