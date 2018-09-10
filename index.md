@@ -21,4 +21,4 @@ complexes in the laboratory of Dr. Mark Noble. Adria spent a summer in Japan stu
 through the KIIS program. She returned to Japan for an academic year as a Boren Scholar at Ritsumeikan Asia Pacific University.
 Adria is currently a Ph.D. candidate in the Atmospheric and Oceanic Science Department at the University of Maryland, College Park. 
 Here, she works with Dr. Steven J. Smith and Dr. Corinne Hartin at the Joint Global Change Research Institute (JGCRI) to investigate 
-short-lives climate focers using models and observations.
+short-lived climate focers using models and observations.
