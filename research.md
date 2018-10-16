@@ -7,11 +7,17 @@ slug: research
 
 # Project 1: Evaluating Climate Emulation: Unit Testing of Simple Climate Models
 
-Simple climate models (SCMs) underlie many important scientific and decision-making endeavors. 
-This illustrates the need for their use to be rooted in a clear understanding of their fundamental responses. 
-In this study, we provide a comprehensive assessment of model performance by evaluating the fundamental responses of 
-several SCMs. We find biases in some responses, which have implication for decision science. We conclude by recommending 
-a standard set of validation test for any SCM. 
+Simple climate models (SCMs) are numerical representations of the Earth’s gas cycles and climate system. 
+SCMs are easy to use and computationally inexpensive, making them an ideal tool in both scientific and decision-making contexts 
+(e.g., complex climate model emulation; parameter estimation experiments; climate metric calculations; and probabilistic analyses). 
+Despite their prolific use, the fundamental responses of SCMs are often not directly characterized. In this study, we use unit tests of 
+three chemical species (CO2, CH4, and BC) to understand the fundamental gas cycle and climate system responses of several SCMs 
+(Hector v2.0, MAGICC 5.3, MAGICC 6.0, FAIR v1.0, and AR5-IR). We find that while idealized SCMs are widely used, they fail to capture 
+important global mean climate response features, which can produce biased temperature results. Comprehensive SCMs, which have non-linear 
+forcing and physically-based carbon cycle representations, show improved responses compared to idealized SCMs. Even some comprehensive SCMs 
+fail to capture response timescales of more complex models under BC or CO2 forcing perturbations. These results suggest where improvements
+should be made to SCMs. Further, we provide a set of fundamental tests that we recommend as a standard validation suite for any SCM. 
+Unit tests allow users to understand differences in model responses and the impact of model selection on results.
 
 
 # Project 2: Characterization of Model Variability in CMIP5
