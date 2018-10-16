@@ -5,7 +5,7 @@ permalink: /research/
 slug: research
 ---
 
-# Evaluating Climate Emulation: Unit Testing of Simple Climate Models
+# Project 1: Evaluating Climate Emulation: Unit Testing of Simple Climate Models
 
 Simple climate models (SCMs) underlie many important scientific and decision-making endeavors. 
 This illustrates the need for their use to be rooted in a clear understanding of their fundamental responses. 
@@ -14,7 +14,7 @@ several SCMs. We find biases in some responses, which have implication for decis
 a standard set of validation test for any SCM. 
 
 
-# Characterization of Model Variability in CMIP5
+# Project 2: Characterization of Model Variability in CMIP5
 
 Contributions from both unforced variability (e.g., ocean-atmosphere interactions) and external forcing (
 e.g., anthropogenic greenhouse gas emissions, volcanic activity, variations in solar intensity) drive changes in Earth’s 
@@ -34,6 +34,6 @@ the sub-global regions defined by PAGES 2k. Our approach allows for a more robus
 at time periods and regional levels important to human systems. 
 
 
-# Changes in Climate Sensitivity over Time
+# Project 3: Changes in Climate Sensitivity over Time
 
 More to come!
