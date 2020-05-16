@@ -7,16 +7,13 @@ slug: home
 <img style="float: left; width: 300px; margin: 0px 20px 20px" src="images/my_photo.jpg">
 
 <div class="overview">
-Ph.D. Candidate<br>
-<a href="https://www.umd.edu/">Univeristy of Maryland</a><br>
-<a href="https://www.atmos.umd.edu/">Department of Atmospheric and Oceanic Science </a><br>
-<a href="http://www.globalchange.umd.edu/">Housed at the Joint Global Change Research Institute</a><br>
+Adria K. Schwarber, Ph.D.<br>
 </div> <br>
 
 # Short introduction
 
-Adria K. Schwarber is a Ph.D. candidate in the Atmospheric and Oceanic Science Department at the University of Maryland, College Park. 
-Here, she works with Dr. Steven J. Smith and Dr. Corinne Hartin at the Joint Global Change Research Institute (JGCRI) investigating the role 
+Adria K. Schwarber earned her Ph.D. in the <a href="https://www.atmos.umd.edu/">Department of Atmospheric and Oceanic Science </a> at the <a href="https://www.umd.edu/">Univeristy of Maryland, College Park</a>. 
+Here, she works with Dr. Steven J. Smith and Dr. Corinne Hartin at the <a href="http://www.globalchange.umd.edu/">Joint Global Change Research Institute</a> investigating the role 
 short-lived climate forcers, like methane and black carbon, have in modifying climate in the near-term using climate models of varying 
 complexity and observations. At the University of Maryland, Adria also served as a Graduate Student Government Vice President, advancing 
 broad policy initiatives (e.g., serving on the Review of the Operations of The Graduate School Committee) and more targeted endeavors 
