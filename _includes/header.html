@@ -4,13 +4,18 @@
 
     <div class="container">
 
-      <h1 class="title">
+      <!-- <h1 class="title">
         <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-      </h1>
+      </h1> -->
+	  
+	   <!-- <h3 class="title">
+        <a href="{{ site.baseurl }}/">Home</a>
+      </h3> -->
 
       <nav class="navbar">
         <a href="#" class="menu-icon">
           <span></span>
+		  <span></span>
           <span></span>
           <span></span>
         </a>
@@ -27,9 +32,12 @@
     </div>
 
     {% if page.slug == 'home' %}
-      <h2 class="txt-center">
-          Welcome to <strong>{{ site.title }}</strong>'s personal webpage!
-      </h2>
+      <h1 class="txt-center">
+          <strong>{{ site.title }}</strong>
+      </h1>
+	  <h3 class="txt-center">
+          <i>Science Policy Nerd. Climate Scientist. Science Communicator.</i>
+      </h3>
     {% endif %}
 
   </div>

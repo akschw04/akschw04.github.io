@@ -42,4 +42,19 @@ at time periods and regional levels important to human systems.
 
 # Project 3: Changes in Climate Sensitivity over Time
 
-More to come!
+The time scales of climate system responses to anthropogenic emissions vary
+depending on the chemical species emitted. Though carbon dioxide(CO2) emissions
+primarily drive anthropogenic climate change, emissions of various other radiative
+forcing agents, including short-lived climate forcers (SLCFs), also contribute signifcantly
+to Earth's altered radiative budget. Much of the literature focuses on long-term
+climate responses emphasizing analysis with equilibrium climate sensitivity (ECS)
+or transient climate sensitivity (TCR). There is limited literature exploring shortterm
+climate change responses occurring in a 20-30 year time horizon. To address this gap, 
+we seek to clarify climate dynamics on decadal time scales with the
+ultimate goal of understanding the implications of near-term emission reductions
+on climate. Using observations and coupled model results from CMIP5, we analyze
+the range of temperature response over time, with specific attention to the 20-30
+year time sequence. Similarly, we also explore sub-global temperature responses
+at a hemispheric-scale. We find that the range of responses of land/ocean varied
+less than the range of hemispheric responses. Our results are a first step of better
+quantifying the short-term climate responses to change in SLCFs.
