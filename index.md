@@ -12,10 +12,11 @@ Adria K. Schwarber, Ph.D.<br>
 
 # Short introduction
 
-Adria K. Schwarber earned her Ph.D. in the <a href="https://www.atmos.umd.edu/">Department of Atmospheric and Oceanic Science </a> at the <a href="https://www.umd.edu/">Univeristy of Maryland, College Park</a>. 
-Here, she works with Dr. Steven J. Smith and Dr. Corinne Hartin at the <a href="http://www.globalchange.umd.edu/">Joint Global Change Research Institute</a> investigating the role 
-short-lived climate forcers, like methane and black carbon, have in modifying climate in the near-term using climate models of varying 
-complexity and observations. At the University of Maryland, Adria also served as a Graduate Student Government Vice President, advancing 
+Adria K. Schwarber earned her Ph.D. in the <a href="https://www.atmos.umd.edu/">Department of Atmospheric and Oceanic Science </a> at the <a href="https://www.umd.edu/">Univeristy of Maryland, College Park</a> under the guidance of Drs. Steven J. Smith and Corinne Hartin at the <a href="http://www.globalchange.umd.edu/">Joint Global Change Research Institute</a>. Her research sought to clarify climate dynamics on shorter time scales
+using models of varying complexity—from complex models, which take several months
+to simulate 100 years of climate on a supercomputer, to simple climate models
+(SCMs) that can simulate the same period on a personal computer in less than a
+minute, in addition to using several observational datasets. At the University of Maryland, Adria served as a Graduate Student Government Vice President, advancing 
 broad policy initiatives (e.g., serving on the Review of the Operations of The Graduate School Committee) and more targeted endeavors 
 (e.g., serving on the Graduate Career Pathways Conference Committee). She is passionate about science communication and public engagement, 
 having spoken at both the D.C. Story Collider and the Smithsonian’s Earth Optimism Teen Event, and is a frequent local science fair judge. 
